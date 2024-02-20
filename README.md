@@ -10,15 +10,17 @@ Neu: Bibliotheken
 Im Vordergrund liegen meine Noten weswegen ich erstmal an meinen Modulen arbeiten werden danach will ich etwas mit diesen Bibliotheken machen.
 20.2.2024
 ## ✍️ Heute habe ich... (50-100 Wörter)
-
+mich informiert was ich die nächsten 7 Wochen unternehmen will während dem LAP. Ich will etwas mit dictionaries machen es hat mir beim probieren und zuschauen zugesprochen, ich denke das ist eine gute Idee um mich weiterzuentwickeln.
 ## 27.2.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1				
-...				
-4				
+- [ ] Modul 106 starten
+- [ ] dictionaries filtern
+- [ ] dictionaries 
+
+| Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |Erfüllt? |
+|-----------------|----------------------|-----------------|-----------------|---------|
+|1|M106 anfangen| Moodle offen | Modul eingeschrieben | Modul gestartet||
+|2|Computer starten| Computer hat Strom | Startknopf | Computer an||
+|3|dictionaries abfragen| 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
