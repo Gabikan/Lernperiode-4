@@ -42,6 +42,24 @@ den Start ins Modul 106 gefunden. Ich habe den KLP ausgefüllt und die ersten Au
 | 3 | Ein Wörterbuch mit einem bestimmten Eintrag    | Der Eintrag aus dem Wörterbuch entfernt                | Das Wörterbuch enthält den Eintrag nicht mehr       |
 | 4 | Ein Wörterbuch mit mehreren Einträgen          | Das Wörterbuch durchlaufen                             | Alle Einträge im Wörterbuch werden korrekt angezeigt |
 
+## ✍️ Heute habe ich... (50-100 Wörter)
+dem Arbeitsplan gefolgt ich wurde schneller fertig und einen Auftrag angefangen im Modul 106 erledigt.
+
+## 12.02.2024
+- [ ] Vmware Fusion installieren
+- [ ] Ubuntu einbauen
+- [ ] Windows einbauen
+- [ ] konfigurieren
+
+## ✍️ Heute habe ich... (50-100 Wörter)
+Ich habe auf mac mit Vmware Fusion die Virtuellen Maschinen heruntergeladen und konfiguriert leider hatte ich mit Windows probleme mit dem Netzwerk was mich sehr viel Zeit gefressen hat
+
+## 19.02.2024
+- [ ] M106 Auftrag 04
+- [ ] M106 Auftrag 07
+- [ ] M106 Auftrag 08
+
+
 
 ## Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
